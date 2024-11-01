@@ -2,3 +2,4 @@
 **/*.tfstate.*
 **/.terraform/*
 **/.terraform.lock.hcl
+**/jagan_lab/cicdproject1.pem
